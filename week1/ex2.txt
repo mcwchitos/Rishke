@@ -1,0 +1,22 @@
+    1  ls
+    2  cd ..
+    3  ls
+    4  cd r.maksudov/
+    5  mkdir ~/week1
+    6  ls
+    7  cd ~/week1
+    8  ls ../../../../usr/bin | grep "gcc" | sort -r > ex1.txt
+    9  less ex1.txt
+   10  nano ex3.sh
+   11  less ex3.sh
+   12  sh ex3.sh
+   13  nano main.c
+   14  less main.c
+   15  nano main.c
+   16  less main.c
+   17  gcc main.c -o ex4
+   18  ./ex4
+   19  nano main.c
+   20  gcc main.c -o ex4
+   21  ./ex4
+   22  history > ex2.txt

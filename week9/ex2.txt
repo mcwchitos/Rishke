@@ -1,0 +1,3 @@
+In order to make more misses we have to construct a sequence of different numbers: 12 1 7 19 16 0 9 99 54 8 - in this way it will always refill the frame;
+In order to make more hits we have to construct a sequence with repeating elements, for instance:
+1 2 3 4 1 2 3 4 - here will be 4 misses, and all others hits; 

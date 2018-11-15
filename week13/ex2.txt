@@ -1,0 +1,8 @@
+Recovery
+ - by Preemption - sometimes difficult and sometimes unreal, depends on the situation(resources, processes and so on)
+ - by Rollback - each process periodically saves its state on stable storage(goal is to make global chechpoint)
+ - by Killing Processes - way when it can`t kill all the processes, also sometimes can hurt system and data.
+Avoidance - is better than recovery, but these points make this stratagy to be almost non realistic
+ - process asks for resources at one time
+ - certain information should be available in advance
+3. Prevention - is better than others cause we kill some conditions of deadlock and keep holdind our aim/goal.
